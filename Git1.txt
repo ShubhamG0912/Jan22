@@ -1,5 +1,0 @@
-Welcome to Git
-
-Test case 1: We are writing the TestCase
-
-Writing Next Test case.[Adding Third commit]
